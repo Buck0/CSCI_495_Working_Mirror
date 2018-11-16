@@ -3,4 +3,4 @@
 dir /S /B database >cpcTemp.txt
 
 
-plagiarismCheckerBeta.exe
+plagiarismChecker.exe
